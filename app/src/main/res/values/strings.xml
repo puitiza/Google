@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Google</string>
+    <string name="not_log_in">No se puede iniciar Sesión</string>
+    <string name="log_out">log out</string>
+    <string name="revoke">revoke</string>
+    <string name="not_close_session">No se puede cerrar la sesión</string>
+    <string name="not_revoke_session">No se puede Revocar el acceso</string>
+    <string name="not_firebase_auth">No se puede autentificar con FireBase</string>
+</resources>
